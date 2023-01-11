@@ -34,11 +34,11 @@
 2. 인공지능을 학습하기에 적합한 컴퓨터 언어로는 Python과 Java Script를 추천한다. 스마트폰에서는 App Inventor를 학습하고, PC에서는 웹에서 서비스가 가능한 Java Script 기반으로 영재를 교육하기를 추천한다.
 
 [참고문헌]
-[1. 인공지능(AI)란?](https://www.hpe.com/kr/ko/what-is/artificial-intelligence.html) 
-[2. 앱 인벤터](https://appinventor.mit.edu/) 
-[3. 인공지능 앱](https://appinventor.mit.edu/explore/ai-with-mit-app-inventor) 
-[4. p5js](https://p5js.org/ko/) 
-[5. 페이스 마스크](https://wikidocs.net/103515)
-[6. 얼굴추출](https://cafe.naver.com/imgprocafe/121) 
-[7. 얼굴인식](https://justadudewhohacks.github.io/face-api.js/docs/index.html) 
-[8. 얼굴인식2](https://github.com/WebDevSimplified/Face-Recognition-JavaScript)
+1. [인공지능(AI)란?](https://www.hpe.com/kr/ko/what-is/artificial-intelligence.html) 
+2. [앱 인벤터](https://appinventor.mit.edu/) 
+3. [인공지능 앱](https://appinventor.mit.edu/explore/ai-with-mit-app-inventor) 
+4. [p5js](https://p5js.org/ko/) 
+5. [페이스 마스크](https://wikidocs.net/103515)
+6. [얼굴추출](https://cafe.naver.com/imgprocafe/121) 
+7. [얼굴인식](https://justadudewhohacks.github.io/face-api.js/docs/index.html) 
+8. [얼굴인식2](https://github.com/WebDevSimplified/Face-Recognition-JavaScript)
