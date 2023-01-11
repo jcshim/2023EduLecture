@@ -39,9 +39,10 @@
 3. [인공지능 앱](https://appinventor.mit.edu/explore/ai-with-mit-app-inventor) 
 4. [p5js](https://p5js.org/ko/) 
 5. [페이스 마스크](https://wikidocs.net/103515)
-6. [얼굴추출](https://cafe.naver.com/imgprocafe/121) 
-7. [얼굴인식](https://justadudewhohacks.github.io/face-api.js/docs/index.html) 
-8. [얼굴인식2](https://github.com/WebDevSimplified/Face-Recognition-JavaScript)
+<script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
+7. [얼굴추출](https://cafe.naver.com/imgprocafe/121) 
+8. [얼굴인식](https://justadudewhohacks.github.io/face-api.js/docs/index.html) 
+9. [얼굴인식2](https://github.com/WebDevSimplified/Face-Recognition-JavaScript)
 
 9. [DALL-E 2: AI model by OpenAI, Text-to-Image](https://youtu.be/eM5jn8vY2OQ)
 10. [GPT-3: 생성적 사전학습 변환기 Chat-GPT, 1주 1백만명 다운](https://youtu.be/MlySpGnKJ4o)
