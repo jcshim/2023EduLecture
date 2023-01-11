@@ -17,7 +17,7 @@
 # 실습
 1. [AppInventor (MIT & Google)](http://appinventor.mit.edu/)
 2. [Colab (Google)](https://colab.research.google.com/)
-3. [P5.JS] (https://p5js.org/ko/)
+3. [P5.JS](https://p5js.org/ko/)
 4. [ML5.js](https://wikidocs.net/102928) 
 # SW 영재교육
 ## 노트
