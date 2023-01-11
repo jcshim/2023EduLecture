@@ -13,17 +13,22 @@
 
 # SW
 ## Open Source Software
+1. [공개소프트웨어](https://www.oss.kr/)
+2. [Github](http://github.com)
 
 # 실습
 1. [AppInventor (MIT & Google)](http://appinventor.mit.edu/)
 2. [Colab (Google)](https://colab.research.google.com/)
 3. [P5.JS](https://p5js.org/ko/)
 4. [ML5.js](https://wikidocs.net/102928) 
+
 # SW 영재교육
-## 노트
-## 독서
+1. 목표
+2. 노트
+3. 독서
 
 # 결론
+1. 함께 일할 수 있는 영재
 
 [참고문헌]
 [1] 첨부1 교육자료
