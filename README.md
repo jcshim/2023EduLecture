@@ -42,3 +42,7 @@
 6. [얼굴추출](https://cafe.naver.com/imgprocafe/121) 
 7. [얼굴인식](https://justadudewhohacks.github.io/face-api.js/docs/index.html) 
 8. [얼굴인식2](https://github.com/WebDevSimplified/Face-Recognition-JavaScript)
+
+9. [DALL-E 2: AI model by OpenAI, Text-to-Image](https://youtu.be/eM5jn8vY2OQ)
+10. [GPT-3: 생성적 사전학습 변환기 Chat-GPT, 1주 1백만명 다운](https://youtu.be/MlySpGnKJ4o)
+10. [구글위협 Chat-GPT](https://youtu.be/0nFpsGg_XcA)
